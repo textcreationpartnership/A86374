@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Highnesse Prince Ruperts raising of the siege at Newarke upon Trent, March 21. 1643. Written by an eye witnesse to a person of honour.</title>
+            <author>Eye witnesse to a person of honour.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86374</idno>
+            <idno type="STC">Wing H2077A</idno>
+            <idno type="STC">Thomason E38_10</idno>
+            <idno type="STC">ESTC R6516</idno>
+            <idno type="EEBO-CITATION">99873005</idno>
+            <idno type="PROQUEST">99873005</idno>
+            <idno type="VID">155048</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86374)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155048)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E38[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Highnesse Prince Ruperts raising of the siege at Newarke upon Trent, March 21. 1643. Written by an eye witnesse to a person of honour.</title>
+                  <author>Eye witnesse to a person of honour.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Madan.</note>
+                  <note>In this edition line 3 of title ends: Newarke upon.</note>
+                  <note>Annotation on Thomason copy: "Oxford 21 March".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Newark (Nottinghamshire, England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:155048:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>HIS HIGHNESSE <hi>PRJNCE R<g ref="char:V">Ʋ</g>PERTS</hi> Raiſing of the Siege at <hi>Newarke</hi> upon TRENT, <date>March 21. 1643.</date>
+            </head>
+            <byline>Written by an eye Witneſſe to a Perſon of Honour.</byline>
+            <opener>
+               <salute>Right Honourable and my very good Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Is Highneſſe Prince <hi>Rupert</hi> being at Weſt-Cheſter up<g ref="char:EOLhyphen"/>on Tueſday night, March the 12. received firſt of all his Majeſties Commands to march with all ſpeed to the relief of Newark, as then beſieged by Sir <hi>Iohn Mel<g ref="char:EOLhyphen"/>drum.</hi> The Rebels Forces were ſuppoſed to be about foure thouſand Foot, under five Regiments and foure Colours, with well towards two thouſand Horſe and Dragooners. Vpon theſe ſum<g ref="char:EOLhyphen"/>mons his Highneſſe next morning made haſt to <hi>Shrewsbury,</hi> ſpeeding away Major <hi>Legge</hi> (our Generall of the Ordinance) before, to chuſe out ſo many commanded Muſquetiers of the Engliſh of late come out of Ireland, as might well be ſpared out of that Garriſon: theſe were 1000 Musquetiers of Colonel <hi>Broughtons</hi> and Colonel <hi>Tilliers</hi> Regiments, with 120 of Colonell Sir <hi>Fulke Hunkes;</hi> all theſe ſent down the Severne met the Prince at Bridgenorth on Friday: of Horſe his Highneſſe took along his own Troope and Regiment, with 150 of Major Generall Sir <hi>Iohn Hurries;</hi> with theſe Forces we drew along three ſmall field Pieces. At Woolverhampton next day was our little Army recruited by 100 Horſe, and 200 Foot of Colonell <hi>Leveſons.</hi> On Munday night had we notice at Aſhbey de la Zouch, of 2200 Rebels under Sir <hi>Edward Hartop,</hi> ſent out by <hi>Meldrum</hi> to
+<pb n="2" facs="tcp:155048:2"/>
+               <!-- PDF PAGE 8 -->
+paſſe and bridge over the Sore, a mile from Loughborough in Lei<g ref="char:EOLhyphen"/>ceſter-ſhire: their purpoſe was either to intercept Generall Major <hi>George Porter,</hi> or to prevent his joyning with my Lord of <hi>Loughbo<g ref="char:EOLhyphen"/>rough;</hi> for thither with foure Regiments of Horſe, and a thouſand commanded Muſquetiers of my Lord of <hi>Newcaſtles</hi> men was M. <hi>Por<g ref="char:EOLhyphen"/>ter</hi> now come from about Newark, to hinder the Rebels further in<g ref="char:EOLhyphen"/>rodes into Leiceſterſhire; daily ſlight skirmiſhes here paſſed; and had the Major Generals people been as valiant as himſelfe, <hi>Meldrum</hi> had had occaſion to chide his party for doing nothing. For not able to force the Paſſe, and hearing of my Lord of <hi>Loughboroughs</hi> draw<g ref="char:EOLhyphen"/>ing out, they ſtole away by moon-light. Maſter <hi>Porter</hi> thus diſinga<g ref="char:EOLhyphen"/>ged, was the next day (being Tueſday, March the 19, together with my Lord <hi>Loughboroughs</hi> Forces,) conjoyned with the Princes; that night we all quartered in a Cloſe by Bingham, ſome eight miles ſhort of Newarke: about two of the clocke (the Moone then well up) our Drummes beat, and we marched: hitherto had our Marches beene ſo ſpeedy, as ſame it ſelfe was prevented; for by <hi>Meldrums</hi> owne Letters, which (together with theſe two) the Prince intercep<g ref="char:EOLhyphen"/>ted the night before, your Lordſhip may perceive the Rebels had no more but an uncredited rumour of Prince <hi>Ruperts</hi> comming: on this dayes march, his Highneſſe had notice by his Eſpials, how the Rebells were buſied all the morning in ſending away their Can<g ref="char:EOLhyphen"/>nons, which proved no other then their drawing them off their Bat<g ref="char:EOLhyphen"/>teries into their chiefe Worke at the Spittle, or Exceſter houſe, a little more then Muſquet ſhot from the Towne for into that one quarter had they that morning drawne all their Regiments and Am<g ref="char:EOLhyphen"/>munition. His Highneſſe, having intelligence of their amaſſing themſelves into one Body, which he ſuppoſed a preparation to march off ſuddenly, advanced his Van of Horſe upon the ſpurre, to over<g ref="char:EOLhyphen"/>take them: the reſt of our Horſe had order to keep along with the Foot, Cannon and Ammunition: coming neare the Beacon hill, a mile ſhort of Newarke, we perceived ſome Horſe of the Enemies, who upon our approach drew downe the other ſide to their owne
+<pb n="3" facs="tcp:155048:2"/>
+               <!-- PDF PAGE 8 -->
+groſſe; ours thus eaſie gaining the Hill increaſed his Highneſſe na<g ref="char:EOLhyphen"/>turall courage, upon his apprehenſion beſides of having many advan<g ref="char:EOLhyphen"/>tages upon a retreating Enemy; whereupon, <hi>Courage,</hi> ſayes he, <hi>Let's charge on Gods name with the Horſe we have, and ingage them till our Reare and Foot be marcht up to us;</hi> trooping thus to the edge of the Hill, we perceived the moſt of the Enemies in Battalia (Horſe and Foot) neare the Spittle; all, I meane, except foure great Bodies of Horſe, who expected us at the deſcent of the Hill: the Prince thus ordered his owne few Forces; firſt himſelfe and his own Troope of Life-guard, undertook to attaque that Body on the left hand, ap<g ref="char:EOLhyphen"/>pointing my Lord <hi>Loughboroughs</hi> Troop to ſecond him, and Colo<g ref="char:EOLhyphen"/>nell <hi>Charles Gerards</hi> Troop to be as a Reſerve: a little on my Lords right hand the Prince his Regiment was caſt out into five Diviſions, two Troopes to each Diviſion: in the firſt and very right hand of all were Captain <hi>Gardiner</hi> and Captain <hi>Richardſon,</hi> and next them Cap<g ref="char:EOLhyphen"/>tain <hi>Cob</hi> and Captain <hi>Martyn,</hi> then my Lord <hi>Grandiſon</hi> and Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Dalliſon,</hi> next them the Troops of Sir <hi>Lewis Dives</hi> and my Lord <hi>Dillon,</hi> Major <hi>Legges</hi> and Lievtenant-colonell <hi>O-nelles</hi> Troopes be<g ref="char:EOLhyphen"/>ing next unto the Life-guards: this Regiment was ſeconded by Ma<g ref="char:EOLhyphen"/>jor General <hi>Porters</hi> Regiment. Our Field word was <hi>King</hi> and <hi>Queen,</hi> theirs <hi>Religion.</hi> The fight began about nine of the clock; and after a while grew ſturdy, eſpecially on our right Wing; the Rebels dou<g ref="char:EOLhyphen"/>bling their Files from three to ſix deep, and charged our two utmoſt Troops upon the Flanks ſo hard, that Captain <hi>Martine</hi> came timely in to help to beat off the Rebels. The Prince himſelf having pierced deep into the Enemies, and being obſerved for his valour, was dan<g ref="char:EOLhyphen"/>gerouſly at once aſſaulted by three ſturdy Rebels, wherof one fell by his Highneſſes own ſword, a ſecond being piſtolled by M. <hi>Mortaine</hi> one of his own Gentlemen: the third now ready to lay hand on the Princes collar, had it almoſt chopt off by Sir <hi>William Neale:</hi> his Highneſſe thus diſingaged, with a ſhot onely in his Gantlet, with Sir <hi>Richard Crane</hi> and his own Troop, charged quite thorough that Bo<g ref="char:EOLhyphen"/>dy of Rebels; purſuing them in Rout home to their very workes at
+<pb n="4" facs="tcp:155048:3"/>
+               <!-- PDF PAGE 9 -->
+the Spittle. Preſently after this, his Highneſſes Regiment with their ſeconds, likewiſe routed the three other Bodies; foure of the Troops charging even into the work, and bringing away a Captain priſoner: my Lord <hi>Loughborough</hi> alſo deported himſelfe honourably, and when ſome of his ſhrunk, at the ſecond charge himſelfe rode back to Rally and bring them up again: Major Generall <hi>Porter</hi> charg'd with bravery enough in his own perſon, though ſome of his retired up the Hill in ſome haſt and diſorder. Colonell <hi>Charles Gerard</hi> (who never carried himſelfe but gallantly) did here like himſelfe: but by the fall of his horſe, was bruiſed, ſhot in the arm, and taken priſoner.</p>
+            <p>After a while both ſides began to rallie, and make ready for a ſe<g ref="char:EOLhyphen"/>cond charge; ours to make the Impreſſion, and theirs to receive it: and though for a good while they diſputed it toughly, yet by fine force were they and all the reſt driven quite out of the Field; not halfe of our Horſe charging: for our Reare was not yet come up. Now fled the Enemy quite beyond their own Worke, Foot and cannon, at the Spittle, divers of them haſting by a Bridge of Boats over that branch of the Trent, into the Iſland: foure other Troopes. with as many Foot Captains, haſted up to Muskam Bridge upon the other ſide the Iſland, and main ſtream of the River about three quar<g ref="char:EOLhyphen"/>ters of a mile, both from Newarke and the Spittle, here being out of Gun-ſhot, they ſtaid till towards Evening, when breaking the Bridge behind them, &amp; throwing one piece of Cannon into the Trent, they then runne home to Nottingham. In both theſe ſtiffe bouts, took we five Cornets, and about 90. Priſoners, whereof three Captains, ſome Gentlemen, three Cornets, beſides other Officers, and two Canno<g ref="char:EOLhyphen"/>neers, one Cornet was taken by Sir <hi>Richar Byron.</hi>
+            </p>
+            <p>And now, as if an univerſall Truce had bin agreed upon, there was ſome half houres ſilence; excepting that the Enemies Canonadoes (though with very little effect) diſturbd it; for the Rebells Foot had not yet advanced; and their Horſe, by this time had enough of it. As for the Prince he now ſtaid for his Foot, and Rear of Horſe, both left full two Miles behind, when our Van began to double their
+<pb n="5" facs="tcp:155048:3"/>
+               <!-- PDF PAGE 9 -->
+March to overtake the Enemy. Anon came up our Foot, all that day commanded by Colonell <hi>Tillier:</hi> theſe reſting themſelves a while upon the Hill, the firſt Diviſion, being part of thoſe that came from Shrewesbury, were led onely by the Colonell. Theſe marcht down bravely in the face of the Enemy, hooting at their Cannon. Theſe flancked with ſome Horſe, were wheeled to the right, by and by, in<g ref="char:EOLhyphen"/>to a Medow. At their comming, the Rebels drew all their Horſe and Foot within their Spittle work; whom when our men came againſt, both ſides ſaluted one another at too far a diſtance, with a ſhort Vol<g ref="char:EOLhyphen"/>lye. But Colonell <hi>Tillier</hi> was not to ſtay here; as being, by his Or<g ref="char:EOLhyphen"/>ders to March up to the very River ſide, to recover the Boat-bridge from the Enemy: But this being too well guarded, ours drew off qui<g ref="char:EOLhyphen"/>etly, making a ſtand without reach of Canon. In this time were di<g ref="char:EOLhyphen"/>vers more Bodies of Foot brought down into the Field, who charged up to the Enemies Works, and killed many, my Lord <hi>Loughboroughs</hi> being left upon the Hill for a Reſerve.</p>
+            <p>Thus was the Valley beſpread with our Battaglions: and in this poſture ſtood the Princes Army. Sir <hi>Richard Byron</hi> Governour of Newarke, likewiſe before this, had ſent part of his Garriſon (both Horſe and Foot) into another ground on the Southeaſt ſide of the Towne. And by this time had the Prince notice given him by a Pri<g ref="char:EOLhyphen"/>ſoner, and by one of theirs that came over to us, how the Rebels were ſo diſtreſſed for want of Victualls, that they were not able to live there two daies: Whereupon His Highneſſe began to reſolve upon other counſailes; eſteeming it cheaper to block up their Trenches, then to ſtorm them. And blockt up they were already, as being coopt up in a very narrow roome, no more then the backſide of the Spittle, towards the River, beſides which they were on all ſides ſurrounded by our Forces: On the Southſide by the Town, on the Eaſt by the Prince, and on the North by Colonell <hi>Tilliar:</hi> Into the Iſland on the Weſt had the Prince ſent 500 Horſe, beſides 200 of the Newarke Troopers. Thus the late Blockers found themſelves now beſieged, yea without much hope of ſuddaine relief, or ſafe meanes to ſalley:
+<pb n="4" facs="tcp:155048:4"/>
+               <!-- PDF PAGE 10 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:155048:4"/>
+               <!-- PDF PAGE 10 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:155048:5"/>
+               <!-- PDF PAGE 11 -->
+for ſo well had the Prince ordered them, that had they ſallied for<g ref="char:EOLhyphen"/>wards, we had then fallen upon their firſt iſſuing out, both in From and Flanks with our Army, and the Towne had charged them upon their Reer: Had they offered to eſcape over their Boat-Bridge, ours in the Iſle had diſturbed their paſſing, and we entertaind their com<g ref="char:EOLhyphen"/>ming over, yea which part ſoever had firſt divided, we had bin able to beat the other. By this time too had the Prince commanded Sir <hi>Richard Byron</hi> with his own, and Sir <hi>Gervaſe Eyres</hi> Horſe Regiments, with 800 of Sir <hi>Iohn Digbies</hi> Foot to advance ſo high into the Iſland as to put in betwixt the Rebells two Bridges, by which interpoſition was all intercourſe cut off, betwixt the Rebells their great body at the Spittle, and thoſe at Muskam Bridge: Upon this, thoſe eight Colours at the Bridge retreated, as is aforeſaid. Under favour of theſe Town-forces too, was His Highneſſe reſolved to caſt up a Re<g ref="char:EOLhyphen"/>doubt that night betwixt the Bridges. But going now to view the Ground, the Rebells ſent out a Trumpet to deſire a Parlee. To make way for this, and the more to ſweeten and oblige the Prince, had Sir <hi>Iohn Meldrum,</hi> ſome houres before, ſent home Colonell <hi>Gerard,</hi> yet upon the parole of a Souldier and a Gentleman, to return himſelf a Priſoner, when ever he ſhould be called. The Rebells having ſent out to Parlee, quit their Bridge; which his Highneſſe preſently poſ<g ref="char:EOLhyphen"/>ſeſſed by a hundred Muſqueteers.</p>
+            <p>For the Parlee, His Highneſſe appointed Sir <hi>Richard Crane,</hi> Cap<g ref="char:EOLhyphen"/>taine of his Life-guards, with Sir <hi>William Neale</hi> Scout-Maſter Gene<g ref="char:EOLhyphen"/>rall: the Rebels ſending Sir <hi>Miles Hobard,</hi> and Sir <hi>Iohn Palgrave,</hi> in<g ref="char:EOLhyphen"/>to the Town. Now true though it be that the Enemies were diſtreſ<g ref="char:EOLhyphen"/>ſed, yet very wiſe Generalls have not thought it ſafe to make ſuch men deſperate: beſides which being now in the midſt of their owne Garriſons, they might poſſibly be relieved. And to confeſſe the truth, our Horſes were ſo over-matcht, and our foot ſo beaten off Leggs, that we found our ſelves leſſe able for the preſent for them. In very truth too, the Rebells were more then we believed: for theſe reaſons, and for that (as by theſe intercepted Letters it appeares) My Lord
+<pb n="7" facs="tcp:155048:5"/>
+               <!-- PDF PAGE 11 -->
+               <hi>Fairfax,</hi> and his Sonne Sir <hi>Thomas,</hi> being both commanded by the Cloſe Committee to march, other places might ere long have need of His preſence. His Highneſſe (at length) condeſcended to theſe Articles, which beſides they be both honourable and ſafe, were the ſame (for the generall) as our ſide had before gone out upon, when the Rebells tooke <hi>Lincolne.</hi> Of the Articles this (My <hi>Lord</hi>) is the Originall Copy.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>Articles agreed upon 22. Martii by Sir RICHARD CRANE and Sir WILLIAM NEALE, Knights, on the part of His Highneſſe Prince RVPERY: And Sir <hi>Miles Hobert,</hi> and Sir <hi>Iohn Palgrave,</hi> on the part of Sir <hi>Iohn Meldrum,</hi> as followeth.</head>
+                        <list>
+                           <item>1 <hi>That all Match, Bullet, Powder, Canon, and all other fire Armes belong-to the Artillery be delivered.</hi>
+                           </item>
+                           <item>2 <hi>That all Souldiers march away with their Swords by their ſides, and Co<g ref="char:EOLhyphen"/>lours, and Drums.</hi>
+                           </item>
+                           <item>3 <hi>That all Officers March out without moleſtation, with their Armes and Horſes for themſelves and Servants, and Bag and Baggage, Money, and whatſoever elſe doth truly belong to themſelves.</hi>
+                           </item>
+                           <item>4 <hi>That all Troopers and Dragooners March away with their Swords, Horſe, and Colours.</hi>
+                           </item>
+                           <item>5 <hi>That His Highneſſe ſend a Convoy to protect us from any Injury two Miles from His utmoſt Quarters towards Lincolne.</hi>
+                           </item>
+                        </list>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>Richard Crane.</item>
+                                 <item>William Neale.</item>
+                                 <item>Miles Hobart.</item>
+                                 <item>Io. Palgrave.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>But Beſides theſe Conditions, His Highneſſe, gave by Inſtructions to His Commiſſioners, to inſiſt upon a demand of ſome Priſoners before taken; which was alſo granted. Hereupon next morning the Rebells marched out: but for the Horſemens carrying away their Arms, and others their Pikes, with more then was conditioned, our
+<pb n="8" facs="tcp:155048:6"/>
+               <!-- PDF PAGE 12 -->
+unruly Souldiers (eſpecially thoſe that had been ſo before uſed <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lincolne by the Parliamentiers) taking this occaſion to quarrel with the Rebells, took more from them then by the Articles they ſhould have done. But for this were divers of them ſlaſhed by the Prince, and the Rebells Colours ſent back unto them.</p>
+            <p>The Rebells thus gone, we had leaſure to carry off their Arms and Ammunition, conſiſting of betwixt three and foure thouſand Muſ<g ref="char:EOLhyphen"/>quets, and a great quantity of Pikes and Piſtolls, with the Cannon they left behind them: of theſe we found Eleven fair Braſſe Pieces: one a Baſiliske of Hull, foure yards long, ſhooting 32. Ball: one of their Ordnance was found at Muskam Bridge, and the Carriage of t'other. Two goodly Mortar-pieces were alſo left us, the leaſt ſhoot<g ref="char:EOLhyphen"/>ing 80. pound Granado, and the other twelve ſtone and eight pound, and all their Ammunition. The number of the ſlaine we know not; but we thinke they loſt towards nineſcore or two hundred, and we about half ſo many ſlaine and wounded. Thus after juſt three weeks Siege, was Newarke happily relieved. Your Honour knowes the high conſequence of this Service. Severall particulars more, I leave to this bearer, who very commendably ſuſtained his part in it. His Highneſſe hath appointed a Thankſ-giving for this on Sunday; by which the World may ſee Him to be as Devout as Valiant.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
